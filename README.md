@@ -1,2 +1,7 @@
-# KHPoshTools
-A module of small, useful tools. Used as an example of standard module development.
+# PlasterTemplates
+
+My personal Plaster Templates
+
+## Default module structure
+
+<img src="https://bit.ly/2xir5pu" width="300">
