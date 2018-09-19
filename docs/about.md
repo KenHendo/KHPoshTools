@@ -1,6 +1,6 @@
 # KHPoshTools
 
-An example module of small Powershell tools, created to explore best practices including the use of  Pester, Plaster and automated build pipelines.
+A module of small, useful tools. Used as an example of standard module development including the use of Pester, Plaster and an automated build pipeline.
 
 ## Getting Started
 
